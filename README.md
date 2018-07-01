@@ -5,6 +5,7 @@ It is simple quiz app which asks 10 questions on various South Africa topics.
 and displays the score in a toast.
 
 **Screenshots:**
+
 ![](https://github.com/loynaps/QuizAppMzansi/blob/master/qz_scrnShots/qz_scrnshot1.png)
 
 ![](https://github.com/loynaps/QuizAppMzansi/blob/master/qz_scrnShots/qz_scrnshot2.png)
@@ -29,5 +30,10 @@ and displays the score in a toast.
 <br/>Button
 
 **link to apk file**
+
 https://drive.google.com/drive/folders/1tbq_UtmbEHiegfGwuuTCBKwgXOjRBAgC?usp=sharing
+
+**github link**
+
+https://github.com/loynaps/QuizAppMzansi
 
