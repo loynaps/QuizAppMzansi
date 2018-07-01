@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Quiz App Mzansi</string>
+
+    <string name="q1_question">1. Which flag belongs to a country that is not in Southern Africa?</string>
+    <string name="q1_ansA">A</string>
+    <string name="q1_ansB">B</string>
+    <string name="q1_ansC">C</string>
+    <string name="q1_ansD">D</string>
+
+    <string name="q2_question">2. Who was the first black President of South Africa?</string>
+    <string name="q2_ansA">A. Nelson Mandela</string>
+    <string name="q2_ansB">B. Jacob Zuma</string>
+    <string name="q2_ansC">C. Thabo Mbeki</string>
+    <string name="q2_ansD">D. Julius Malema</string>
+
+    <string name="q3_question">3. South Africa is a land locked country. Indicate  whether its
+        true or false</string>
+    <string name="q3_ansA">True</string>
+    <string name="q3_ansB">False</string>
+
+    <string name="q4_question">4. The Springbok is the national animal of South Africa. Indicate
+        whether its
+        true or fals </string>
+    <string name="q4_ansA">True</string>
+    <string name="q4_ansB">False</string>
+
+    <string name="q5_question">5. Which of the following are the capital cities of South
+        Africa?</string>
+    <string name="q5_ansA">Cape Town</string>
+    <string name="q5_ansB">Pretoria</string>
+    <string name="q5_ansC">Durban</string>
+    <string name="q5_ansD">Bloemfontein</string>
+
+    <string name="q6_question">6. Which of the following languages are some of the official
+        languages of South Africa?</string>
+    <string name="q6_ansA">Zulu</string>
+    <string name="q6_ansB">Ndebele</string>
+    <string name="q6_ansC">English</string>
+    <string name="q6_ansD">Afrikaans</string>
+
+    <string name="q7_question">7. Which of the following countries are South Africas
+        neighbours</string>
+    <string name="q7_ansA">Zambia</string>
+    <string name="q7_ansB">Botswana</string>
+    <string name="q7_ansC">Zimbabwe</string>
+    <string name="q7_ansD">Malawi</string>
+
+    <string name="q8_question">8. Fill in the blanks, Soweto stands for ___Townships</string>
+
+    <string name="q9_question">9. How many provinces does South Africa have?</string>
+
+    <string name="q10_question">10. In which year did South Africa become a Republic?</string>
+
+    <string name="input_hint">Your answer</string>
+
+
+    <string name="getScoreBtn">view Score</string>
+
+    <string name="resetBtn">Reset</string>
+    <string name="toast_preamble">Your quiz score:</string>
+</resources>
+
